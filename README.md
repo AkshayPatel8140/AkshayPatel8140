@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Patel
-- 🇮🇳 I'm Indian
-- 👀 I’m React-Native developer
+<!-- - 🇮🇳 I'm Indian -->
+- 👀 I’m Software developer
 - 🌱 I’m currently pursuing MS in Computer Science
 - 📫 You can connect me by send me the mail on the my [Email](akshagpatel1997@gmail.com)
 - 👨🏻‍💻 Protfolio [Link](https://akshaypatel8140.github.io/Akshay-Patel)
