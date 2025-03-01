@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay Patel<!-- - 🇮🇳 I'm Indian -->
 - 👀 I’m Software developer
 - 🌱 I’m currently pursuing MS in Computer Science
-- 📫 You can connect me by send me the mail on the my [Email](akshagpatel1997@gmail.com)
+- 📫 You can connect me by send me the mail on the my [Email](mailto:akshagpatel1997@gmail.com?subject=Let\'s%20connect...&body=%20Dear%20Akshay)
 - 👨🏻‍💻 Protfolio [Link](https://akshaypatel8140.github.io/Akshay-Patel)
 <!-- - 🏠 I'm from Ahmedabad which is the best city of the Gujarat state -->
 
