@@ -15,6 +15,19 @@
 
 
 ## My projects and the overview of the project and my role in the projects
+### AI Academic Advisor
+- Developed an intelligent academic advising system that leverages conversational AI and machine learning to offer students personalized course and career guidance, track academic progress, and provide proactive recommendations.
+- Chatbot Integration: Built and integrated a GPT-based AI chatbot capable of handling academic and career-related queries with real-time response generation.
+- NLP Fine-Tuning: Used HuggingFace Transformers to fine-tune models for sentiment analysis and topic modeling of student feedback.
+- Recommendation Engine: Helped design and implement a hybrid engine combining content-based, collaborative, and knowledge-based filtering to generate personalized course and career suggestions.
+- Engagement Monitoring: Contributed to the development of LSTM-based models to predict student engagement and academic risk.
+- Backend API Development: Developed modular Flask APIs to serve chatbot responses, recommendations, and analytics dashboards; optimized using Redis caching and Prometheus/Grafana monitoring tools.
+- Database Management: Utilized PostgreSQL for structured data and MongoDB for dynamic logs; implemented indexing and sharding for performance at scale.
+- Testing & Optimization: Participated in unit, accessibility, and performance testing; improved backend response times by over 60% through query and caching optimizations.
+- Delivered a fully functional AI-driven academic advisor web app with personalized student insights.
+- Ready for future expansion into mobile platforms and LMS integration.
+- [AI Academic Advisor - Project Demo](https://youtu.be/EvGvcQq2ZGo?si=_khna7oOUCX9QQHx)
+
 ### PENTAIR
 - This app provides instructions and the real-time monitoring of IoT devices used for Effortless pool care at your fingertips.
 - Redesigned module UI and updated code to align with the new React Native, Reduced app size and increase in user engagement
