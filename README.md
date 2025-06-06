@@ -9,7 +9,15 @@
 <!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akshaysukhadiya41&theme=dark)](https://github.com/akshaysukhadiya41/leetcode-stats)-->
 
 ### Languages and Tools
-<img src="https://img.shields.io/badge/-ReactNative-333333?logo=react" /> <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript" /> <img src="https://img.shields.io/badge/-TypeSript-333333?logo=typescript" /> <img src="https://img.shields.io/badge/-ReactJs-333333?logo=react" /> <img src="https://img.shields.io/badge/-Python-333333?logo=python" /> <img src="https://img.shields.io/badge/-C++-333333?logo=C%2b%2b&logoColor=044F88" /> <img src="https://img.shields.io/badge/-NodeJs-333333?logo=nodedotjs" /> <img src="https://img.shields.io/badge/-HTML-333333?logo=html5" /> <img src="https://img.shields.io/badge/-CSS-333333?logo=css3" />
+<img src="https://img.shields.io/badge/-ReactNative-333333?logo=react" /> <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-333333?logo=typescript" /> <img src="https://img.shields.io/badge/-ReactJs-333333?logo=react" /> <img src="https://img.shields.io/badge/-Python-333333?logo=python" /> <img src="https://img.shields.io/badge/-Java-333333?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-333333?logo=C%2b%2b&logoColor=044F88" /> <img src="https://img.shields.io/badge/-NodeJs-333333?logo=nodedotjs" /> <img src="https://img.shields.io/badge/-HTML-333333?logo=html5" /> <img src="https://img.shields.io/badge/-CSS-333333?logo=css3" />
+
+
+<!-- - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> React
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java
+<img src="https://img.shields.io/badge/Java-007396" /> -->
 
 <img src="https://img.shields.io/badge/-FireBase-333333?logo=firebase" /> <img src="https://img.shields.io/badge/-GitHub-333333?logo=github" /> <img src="https://img.shields.io/badge/-GitLab-333333?logo=gitlab" /> <img src="https://img.shields.io/badge/-NPM-333333?logo=npm" /> <img src="https://img.shields.io/badge/-AWS-333333?logo=amazonaws&logoColor=orange" /> <img src="https://img.shields.io/badge/-MongoDB-333333?logo=mongodb" /> <img src="https://img.shields.io/badge/-MySql-333333?logo=mysql" />
 
